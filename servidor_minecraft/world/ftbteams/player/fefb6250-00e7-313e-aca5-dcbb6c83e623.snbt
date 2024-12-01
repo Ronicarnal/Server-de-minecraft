@@ -1,0 +1,17 @@
+{
+	id: "fefb6250-00e7-313e-aca5-dcbb6c83e623"
+	type: "player"
+	player_name: "Ronicarnal"
+	ranks: {
+		fefb6250-00e7-313e-aca5-dcbb6c83e623: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Ronicarnal"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
