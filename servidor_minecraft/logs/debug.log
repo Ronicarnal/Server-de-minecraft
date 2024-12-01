@@ -14928,3 +14928,568 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [01Dec2024 21:05:04.952] [Server thread/DEBUG] [pointblank/]: 4952 obtained hit results
 [01Dec2024 21:05:04.952] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@60343e4e
 [01Dec2024 21:05:04.952] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:06.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:06.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:06.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:06.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:06.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:06.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:06.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:09.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:09.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:09.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:09.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:09.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:10.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:10.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:10.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:10.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:10.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:10.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:10.768] [Server thread/DEBUG] [pointblank/]: 10768 handling client fire request
+[01Dec2024 21:05:10.768] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 13
+[01Dec2024 21:05:10.768] [Server thread/DEBUG] [pointblank/]: 10768 - obtained hit result in 0ms
+[01Dec2024 21:05:10.768] [Server thread/DEBUG] [pointblank/]: 10768 obtained hit results
+[01Dec2024 21:05:10.768] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@188c21c9
+[01Dec2024 21:05:10.768] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:10.849] [Server thread/DEBUG] [pointblank/]: 10849 handling client fire request
+[01Dec2024 21:05:10.849] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 12
+[01Dec2024 21:05:10.849] [Server thread/DEBUG] [pointblank/]: 10849 - obtained hit result in 0ms
+[01Dec2024 21:05:10.849] [Server thread/DEBUG] [pointblank/]: 10849 obtained hit results
+[01Dec2024 21:05:10.849] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@70b4f5b0
+[01Dec2024 21:05:10.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:10.927] [Server thread/DEBUG] [pointblank/]: 10927 handling client fire request
+[01Dec2024 21:05:10.927] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 11
+[01Dec2024 21:05:10.927] [Server thread/DEBUG] [pointblank/]: 10927 - obtained hit result in 0ms
+[01Dec2024 21:05:10.927] [Server thread/DEBUG] [pointblank/]: 10927 obtained hit results
+[01Dec2024 21:05:10.927] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4ae4c62f
+[01Dec2024 21:05:10.927] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:11.550] [Server thread/DEBUG] [pointblank/]: 11550 handling client fire request
+[01Dec2024 21:05:11.551] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 10
+[01Dec2024 21:05:11.551] [Server thread/DEBUG] [pointblank/]: 11551 - obtained hit result in 0ms
+[01Dec2024 21:05:11.551] [Server thread/DEBUG] [pointblank/]: 11551 obtained hit results
+[01Dec2024 21:05:11.551] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4066fc98
+[01Dec2024 21:05:11.551] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:11.620] [Server thread/DEBUG] [pointblank/]: 11620 handling client fire request
+[01Dec2024 21:05:11.620] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 9
+[01Dec2024 21:05:11.620] [Server thread/DEBUG] [pointblank/]: 11620 - obtained hit result in 0ms
+[01Dec2024 21:05:11.620] [Server thread/DEBUG] [pointblank/]: 11620 obtained hit results
+[01Dec2024 21:05:11.620] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2c5f9f05
+[01Dec2024 21:05:11.620] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:12.139] [Server thread/DEBUG] [pointblank/]: 12139 handling client fire request
+[01Dec2024 21:05:12.139] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 8
+[01Dec2024 21:05:12.139] [Server thread/DEBUG] [pointblank/]: 12139 - obtained hit result in 0ms
+[01Dec2024 21:05:12.139] [Server thread/DEBUG] [pointblank/]: 12139 obtained hit results
+[01Dec2024 21:05:12.139] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@59df1b28
+[01Dec2024 21:05:12.141] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:12.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:12.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:12.216] [Server thread/DEBUG] [pointblank/]: 12216 handling client fire request
+[01Dec2024 21:05:12.216] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 7
+[01Dec2024 21:05:12.216] [Server thread/DEBUG] [pointblank/]: 12216 - obtained hit result in 0ms
+[01Dec2024 21:05:12.216] [Server thread/DEBUG] [pointblank/]: 12216 obtained hit results
+[01Dec2024 21:05:12.216] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31f1a1fa
+[01Dec2024 21:05:12.217] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:12.561] [Server thread/DEBUG] [pointblank/]: 12561 handling client fire request
+[01Dec2024 21:05:12.561] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 6
+[01Dec2024 21:05:12.561] [Server thread/DEBUG] [pointblank/]: 12561 - obtained hit result in 0ms
+[01Dec2024 21:05:12.561] [Server thread/DEBUG] [pointblank/]: 12561 obtained hit results
+[01Dec2024 21:05:12.561] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@b09d50f
+[01Dec2024 21:05:12.562] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:12.620] [Server thread/DEBUG] [pointblank/]: 12620 handling client fire request
+[01Dec2024 21:05:12.620] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 5
+[01Dec2024 21:05:12.620] [Server thread/DEBUG] [pointblank/]: 12620 - obtained hit result in 0ms
+[01Dec2024 21:05:12.620] [Server thread/DEBUG] [pointblank/]: 12620 obtained hit results
+[01Dec2024 21:05:12.620] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6a2d5c38
+[01Dec2024 21:05:12.621] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:13.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:13.609] [Server thread/DEBUG] [pointblank/]: 13609 handling client fire request
+[01Dec2024 21:05:13.609] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 4
+[01Dec2024 21:05:13.609] [Server thread/DEBUG] [pointblank/]: 13609 - obtained hit result in 0ms
+[01Dec2024 21:05:13.609] [Server thread/DEBUG] [pointblank/]: 13609 obtained hit results
+[01Dec2024 21:05:13.609] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3cf5bb36
+[01Dec2024 21:05:13.609] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:13.683] [Server thread/DEBUG] [pointblank/]: 13683 handling client fire request
+[01Dec2024 21:05:13.683] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 3
+[01Dec2024 21:05:13.683] [Server thread/DEBUG] [pointblank/]: 13683 - obtained hit result in 0ms
+[01Dec2024 21:05:13.683] [Server thread/DEBUG] [pointblank/]: 13683 obtained hit results
+[01Dec2024 21:05:13.683] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1056cade
+[01Dec2024 21:05:13.683] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:13.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:13.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:13.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:13.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:13.958] [Server thread/DEBUG] [pointblank/]: 13958 handling client fire request
+[01Dec2024 21:05:13.958] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 2
+[01Dec2024 21:05:13.959] [Server thread/DEBUG] [pointblank/]: 13959 - obtained hit result in 0ms
+[01Dec2024 21:05:13.959] [Server thread/DEBUG] [pointblank/]: 13959 obtained hit results
+[01Dec2024 21:05:13.959] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@57162fd3
+[01Dec2024 21:05:13.959] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:14.036] [Server thread/DEBUG] [pointblank/]: 14036 handling client fire request
+[01Dec2024 21:05:14.036] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 1
+[01Dec2024 21:05:14.037] [Server thread/DEBUG] [pointblank/]: 14037 - obtained hit result in 1ms
+[01Dec2024 21:05:14.037] [Server thread/DEBUG] [pointblank/]: 14037 obtained hit results
+[01Dec2024 21:05:14.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@745ddd3b
+[01Dec2024 21:05:14.037] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:14.658] [Server thread/DEBUG] [pointblank/]: 14658 handling client fire request
+[01Dec2024 21:05:14.658] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 0
+[01Dec2024 21:05:14.658] [Server thread/DEBUG] [pointblank/]: 14658 - obtained hit result in 0ms
+[01Dec2024 21:05:14.658] [Server thread/DEBUG] [pointblank/]: 14658 obtained hit results
+[01Dec2024 21:05:14.658] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@30fc19e2
+[01Dec2024 21:05:14.658] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12] sends hit scan notification to ServerPlayer['Ronicarnal'/24, l='ServerLevel[world]', x=-36.07, y=84.00, z=414.12]
+[01Dec2024 21:05:14.754] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1241971984 to 25
+[01Dec2024 21:05:14.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:14.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:15.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:15.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:15.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:15.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:15.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:15.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:15.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:15.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:15.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:15.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:15.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:15.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:15.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:15.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:16.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:19.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:19.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:19.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:19.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:20.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:witch but it was marked as removed already
+[01Dec2024 21:05:20.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:20.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:20.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:20.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:20.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:23.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:26.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:26.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:26.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:26.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:30.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:30.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:30.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:30.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:30.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:30.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:witch but it was marked as removed already
+[01Dec2024 21:05:30.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:30.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:30.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:30.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:30.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:30.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:31.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:31.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:32.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:38.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:38.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:38.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:38.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:40.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:41.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:41.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:41.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:41.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:41.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:41.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:41.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:42.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:42.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:42.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:42.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:42.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:42.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:42.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:42.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:42.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:42.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:42.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:42.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:42.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:42.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:42.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:44.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:witch but it was marked as removed already
+[01Dec2024 21:05:44.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:44.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:44.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:44.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:44.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:44.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:44.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:44.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:witch but it was marked as removed already
+[01Dec2024 21:05:45.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:45.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:05:45.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:45.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:48.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:48.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:05:48.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:05:54.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 21:05:54.767] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[01Dec2024 21:05:54.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 21:05:54.831] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[01Dec2024 21:05:56.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:00.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:00.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:01.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:01.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:02.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:02.092] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:02.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:02.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:04.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:07.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:07.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:08.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:12.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:12.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:13.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:13.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:13.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:13.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:13.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:13.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:13.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:13.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:13.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:13.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:13.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:14.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:14.092] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:14.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:14.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:14.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:14.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:enderman but it was marked as removed already
+[01Dec2024 21:06:14.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:enderman but it was marked as removed already
+[01Dec2024 21:06:14.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:14.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:enderman but it was marked as removed already
+[01Dec2024 21:06:14.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:17.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:17.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:17.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:19.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:19.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:19.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:19.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:23.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:23.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:24.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.442] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:24.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:24.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:enderman but it was marked as removed already
+[01Dec2024 21:06:24.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:24.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:24.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:25.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:26.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:26.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:27.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:28.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity alexsmobs:terrapin but it was marked as removed already
+[01Dec2024 21:06:29.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:29.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:29.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:29.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:29.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:30.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:30.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:32.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:32.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:32.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:32.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:32.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:32.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:32.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:32.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:32.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:33.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:33.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:33.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:33.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:33.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:34.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:34.092] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:enderman but it was marked as removed already
+[01Dec2024 21:06:34.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:34.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:34.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:34.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:37.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:37.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:37.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:37.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:37.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:38.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:38.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:38.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:38.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:38.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:40.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:40.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:40.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:40.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:40.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:40.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:40.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:41.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:41.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:41.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:41.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:41.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:41.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:41.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:41.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:41.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:41.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:41.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:41.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:41.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:41.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:41.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.442] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.442] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:42.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:42.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:43.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:43.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:43.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity alexsmobs:centipede_head but it was marked as removed already
+[01Dec2024 21:06:43.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:43.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:43.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:45.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:46.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:50.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:50.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:06:50.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:54.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:54.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:54.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:54.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:54.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:54.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:54.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:54.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:55.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:55.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:55.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:55.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity alexsmobs:terrapin but it was marked as removed already
+[01Dec2024 21:06:55.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity alexsmobs:terrapin but it was marked as removed already
+[01Dec2024 21:06:56.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:58.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:58.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:58.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:58.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:58.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:58.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:58.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:59.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:59.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:06:59.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:06:59.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:01.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity alexsmobs:terrapin but it was marked as removed already
+[01Dec2024 21:07:06.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:06.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:06.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:07.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:07.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:08.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:08.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:08.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:08.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:08.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:08.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:08.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:08.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:10.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:10.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:10.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:10.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:10.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:10.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:10.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:10.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:10.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:11.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:11.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:11.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:11.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:11.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:11.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:11.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:11.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:11.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:11.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:11.892] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:11.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:12.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:12.092] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:12.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:12.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:12.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:12.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:12.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:12.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:15.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:15.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:16.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:16.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:16.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:17.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:17.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:17.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:17.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:17.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:17.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:17.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:18.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:enderman but it was marked as removed already
+[01Dec2024 21:07:18.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:enderman but it was marked as removed already
+[01Dec2024 21:07:18.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:enderman but it was marked as removed already
+[01Dec2024 21:07:18.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:18.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:spider but it was marked as removed already
+[01Dec2024 21:07:18.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:18.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:18.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:18.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:18.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:18.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:18.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:19.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:19.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:19.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:19.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:19.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:19.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:19.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:19.292] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:20.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:20.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:20.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:21.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:21.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:21.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:21.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:21.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:21.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:21.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:21.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:22.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:23.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:23.092] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:23.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:23.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[01Dec2024 21:07:23.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:creeper but it was marked as removed already
+[01Dec2024 21:07:25.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ronicarnal lost connection: Timed out
+[01Dec2024 21:07:25.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ronicarnal left the game
+[01Dec2024 21:07:25.153] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Ronicarnal
+[01Dec2024 21:07:25.154] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ronicarnal
+[01Dec2024 21:08:25.203] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[01Dec2024 21:09:25.203] [Worker-Main-14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-14 shutdown
+[01Dec2024 21:10:25.203] [Worker-Main-6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-6 shutdown
+[01Dec2024 21:10:54.696] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[01Dec2024 21:10:54.696] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[01Dec2024 21:10:54.700] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[01Dec2024 21:10:54.701] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[01Dec2024 21:10:54.704] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[01Dec2024 21:10:54.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 21:10:54.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 21:11:25.203] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
+[01Dec2024 21:12:25.203] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[01Dec2024 21:13:25.203] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[01Dec2024 21:14:25.203] [Worker-Main-22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-22 shutdown
+[01Dec2024 21:15:25.203] [Worker-Main-21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-21 shutdown
