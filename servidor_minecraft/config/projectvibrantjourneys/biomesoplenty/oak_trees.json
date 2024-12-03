@@ -1,5 +1,17 @@
 [
   {
+    "biomeName": "biomesoplenty:floodplain",
+    "chance": 2
+  },
+  {
+    "biomeName": "biomesoplenty:dead_forest",
+    "chance": 2
+  },
+  {
+    "biomeName": "biomesoplenty:prairie",
+    "chance": 10
+  },
+  {
     "biomeName": "biomesoplenty:woodland",
     "chance": 5
   },
@@ -50,17 +62,5 @@
   {
     "biomeName": "biomesoplenty:lavender_forest",
     "chance": 5
-  },
-  {
-    "biomeName": "biomesoplenty:floodplain",
-    "chance": 2
-  },
-  {
-    "biomeName": "biomesoplenty:dead_forest",
-    "chance": 2
-  },
-  {
-    "biomeName": "biomesoplenty:prairie",
-    "chance": 10
   }
 ]

@@ -15,3 +15,6 @@
 	"Iron Golem's Buff" = true
 	"Snowman's Buff" = true
 
+[particles]
+	"Angry Particles" = true
+

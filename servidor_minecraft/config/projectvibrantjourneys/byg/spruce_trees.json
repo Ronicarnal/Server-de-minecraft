@@ -1,5 +1,17 @@
 [
   {
+    "biomeName": "byg:frosted_taiga",
+    "chance": 15
+  },
+  {
+    "biomeName": "byg:weeping_witch_forest",
+    "chance": 5
+  },
+  {
+    "biomeName": "byg:autumnal_taiga",
+    "chance": 20
+  },
+  {
     "biomeName": "byg:maple_taiga",
     "chance": 5
   },
@@ -22,17 +34,5 @@
   {
     "biomeName": "byg:howling_peaks",
     "chance": 5
-  },
-  {
-    "biomeName": "byg:frosted_taiga",
-    "chance": 15
-  },
-  {
-    "biomeName": "byg:weeping_witch_forest",
-    "chance": 5
-  },
-  {
-    "biomeName": "byg:autumnal_taiga",
-    "chance": 20
   }
 ]

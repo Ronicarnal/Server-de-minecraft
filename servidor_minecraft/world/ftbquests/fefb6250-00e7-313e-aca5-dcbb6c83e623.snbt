@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "fefb625000e7313eaca5dcbb6c83e623"
+	name: "Ronicarnal#fefb6250"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

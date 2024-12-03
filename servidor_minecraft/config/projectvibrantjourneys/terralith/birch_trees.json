@@ -1,5 +1,13 @@
 [
   {
+    "biomeName": "terralith:lush_valley",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:shield",
+    "chance": 3
+  },
+  {
     "biomeName": "terralith:skylands_spring",
     "chance": 3
   },
@@ -54,13 +62,5 @@
   {
     "biomeName": "terralith:blooming_valley",
     "chance": 10
-  },
-  {
-    "biomeName": "terralith:lush_valley",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:shield",
-    "chance": 3
   }
 ]

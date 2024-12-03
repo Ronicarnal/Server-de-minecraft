@@ -1,218 +1,73 @@
 {
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2024-12-01 21:04:38 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/azalea_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
-      "0": "2024-12-01 20:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
+      "0": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-01 20:58:09 +0000"
+      "unlock_right_away": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
+  "mekanism:root": {
     "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
+      "automatic": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
+  "numismatics:root": {
     "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
+      "0": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "pfm:grant_book_on_first_join": {
     "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
+      "tick": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/walnut_boat": {
+  "thingamajigs:recipes/redstone/thingamajig_state_cell": {
     "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
+      "has_redstone": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
+  "zombiekit:zombie_kit": {
     "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
+      "zombie_kit": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "infinitybuttons:root": {
     "criteria": {
-      "has_beef": "2024-12-01 21:04:40 +0000"
+      "show": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
+  "ags_day_counter:day_counter_root_advancement": {
     "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
+      "day_counter_root_advancement_0": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+  "zombiekit:grant_book_on_first_join": {
     "criteria": {
-      "has_any_ingredient": "2024-12-01 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-01 21:04:38 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-12-01 20:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2024-12-01 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "toolbelt:recipes/pouch": {
-    "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "overworld_netherite_ore:overworld_netherite": {
-    "criteria": {
-      "overworld_netherite_0": "2024-12-01 20:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-01 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "toolbelt:recipes/belt": {
-    "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
+      "tick": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2024-12-01 20:58:09 +0000"
+      "seeds": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/coconut_boat": {
+  "thingamajigs:get_book": {
     "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2024-12-01 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/flowering_azalea_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:stony_shore": "2024-12-01 20:59:24 +0000",
-      "minecraft:plains": "2024-12-01 20:58:11 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 21:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2024-12-01 21:04:40 +0000"
+      "tick": "2024-12-03 04:03:47 +0000"
     },
     "done": true
   },

@@ -1,5 +1,13 @@
 [
   {
+    "biomeName": "terralith:moonlight_valley",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:skylands_summer",
+    "chance": 10
+  },
+  {
     "biomeName": "terralith:lavender_forest",
     "chance": 3
   },
@@ -34,13 +42,5 @@
   {
     "biomeName": "terralith:amethyst_rainforest",
     "chance": 20
-  },
-  {
-    "biomeName": "terralith:moonlight_valley",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:skylands_summer",
-    "chance": 10
   }
 ]
